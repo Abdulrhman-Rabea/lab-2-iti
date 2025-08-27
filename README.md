@@ -1,2 +1,2 @@
 # lab 2 repo 
-![Project Logo](assets/github.jpg" Project Logo")
+![Project Logo](assets/github.jpeg" Project Logo")
